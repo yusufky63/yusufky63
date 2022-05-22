@@ -1,4 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Chakra+Petch&color=%23F70000&size=100&center=true&vCenter=true&width=1920&height=150&lines=FRONT+-+END++DEVELOPER)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yusufky63&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&dates=DD2727&fire=DD2727&ring=DD2727)](https://git.io/streak-stats)
 
